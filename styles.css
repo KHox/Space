@@ -1,0 +1,39 @@
+.space-object {
+  position: absolute;
+}
+
+.space {
+  position: relative;
+  width: 90%;
+  height: 90%;
+  background-color: black;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.green {
+  width: 5px;
+  height: 5px;
+  background-color: green;
+  z-index: 5;
+}
+
+.blue {
+  width: 5px;
+  height: 5px;
+  background-color: Blue;
+  z-index: 5;
+}
+
+.red {
+  width: 5px;
+  height: 5px;
+  background-color: red;
+  z-index: 5;
+}
+
+.step {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+}
